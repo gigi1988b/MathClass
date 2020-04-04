@@ -18,3 +18,5 @@ numerator(числитель) и denominator(знаменатель).
    знаменатель, и один типа double. Возвращает тип String 
    в формате "numerator/denomirator"
 3) Принимает два параметра типа double. Возвращает тип double
+
+В качестве решения отправить только файл MathClass.java
